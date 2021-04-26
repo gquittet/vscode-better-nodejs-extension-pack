@@ -1,0 +1,34 @@
+{
+    "name": "vscode-better-nodejs-extension-pack",
+    "displayName": "Better NodeJS Extension Pack",
+    "description": "VSCode extension pack to improve your NodeJS development workflow.",
+    "publisher": "gquittet",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-nodejs-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-nodejs-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "bradlc.vscode-tailwindcss",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "kavod-io.vscode-jest-test-adapter",
+        "meganrogge.template-string-converter",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "msjsdiag.debugger-for-chrome",
+        "msjsdiag.vscode-react-native",
+        "ritwickdey.LiveServer"
+    ]
+}
