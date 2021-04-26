@@ -3,7 +3,7 @@
     "displayName": "Better NodeJS Extension Pack",
     "description": "VSCode extension pack to improve your NodeJS development workflow.",
     "publisher": "gquittet",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git@github.com:gquittet/vscode-better-nodejs-extension-pack.git"
