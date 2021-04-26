@@ -12,9 +12,13 @@ To fix this, I made this extension pack that add powers to VSCode.
 - esbenp.prettier-vscode
 - kavod-io.vscode-jest-test-adapter
 - meganrogge.template-string-converter
+- ms-vscode.js-debug
+- ms-vscode.js-debug-companion
 - ms-vscode.vscode-typescript-tslint-plugin
 - msjsdiag.debugger-for-chrome
 - msjsdiag.vscode-react-native
 - ritwickdey.LiveServer
+- vscode.javascript
+- vscode.typescript-language-features
 
 **Enjoy!**
