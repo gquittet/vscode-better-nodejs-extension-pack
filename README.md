@@ -10,6 +10,7 @@ To fix this, I made this extension pack that add powers to VSCode.
 - eg2.vscode-npm-script
 - esbenp.prettier-vscode
 - kavod-io.vscode-jest-test-adapter
+- meganrogge.template-string-converter
 - ms-vscode.vscode-typescript-tslint-plugin
 - msjsdiag.vscode-react-native
 
