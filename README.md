@@ -5,20 +5,13 @@ To fix this, I made this extension pack that add powers to VSCode.
 
 ## List of extensions built-in
 
-- bradlc.vscode-tailwindcss
 - dbaeumer.vscode-eslint
 - dsznajder.es7-react-js-snippets
 - eg2.vscode-npm-script
 - esbenp.prettier-vscode
 - kavod-io.vscode-jest-test-adapter
 - meganrogge.template-string-converter
-- ms-vscode.js-debug
-- ms-vscode.js-debug-companion
 - ms-vscode.vscode-typescript-tslint-plugin
-- msjsdiag.debugger-for-chrome
 - msjsdiag.vscode-react-native
-- ritwickdey.LiveServer
-- vscode.javascript
-- vscode.typescript-language-features
 
 **Enjoy!**
